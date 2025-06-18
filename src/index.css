@@ -1,0 +1,17 @@
+body.light {
+    --bg: #ffffff;
+    --text: #1f1f1f;
+    --accent: #007bff;
+}
+
+body.dark {
+    --bg: #121212;
+    --text: #f0f0f0;
+    --accent: #00bcd4;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    transition: background-color 0.3s color 0.3s;
+}

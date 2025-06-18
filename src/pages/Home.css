@@ -1,0 +1,28 @@
+.home {
+    text-align: center;
+    padding: 80px 20px;
+    background: var(--background);
+    color: var(--text);
+}
+
+.home h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.home span {
+    color: var(--accent);
+}
+
+.home p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.btn {
+    padding: 10px 20px;
+    background: var(--accent);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}

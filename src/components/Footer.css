@@ -1,0 +1,22 @@
+.footer {
+    background-color: var(--bg);
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    border-top: 1px solid #ccc;
+}
+
+.footer .socials {
+    margin-top: 0.5rem;
+}
+
+.footer .socials a {
+    margin: 0 10px;
+    font-size: 1.5rem;
+    color: var(--accent);
+    transition: color 0.3s;
+}
+
+.footer .socials a:hover {
+    color: var(--text);
+}

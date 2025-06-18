@@ -1,0 +1,11 @@
+projects-section {
+    padding: 60px 30px;
+    text-align: center;
+}
+
+project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+}
