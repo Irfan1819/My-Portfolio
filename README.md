@@ -4,7 +4,7 @@ Welcome to my personal portfolio website built using **React.js**. This site sho
 
 ## 🔗 Live Demo
 
-👉 [View My Portfolio](https://your-portfolio.vercel.app) <!-- Replace with actual Vercel link -->
+👉 [View My Portfolio](https://my-portfolio-nnks.vercel.app/) <!-- Replace with actual Vercel link -->
 
 ---
 
